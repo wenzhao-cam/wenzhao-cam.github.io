@@ -23,7 +23,7 @@ repository               : "wenzhao-cam/wenzhao-cam.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo_github.jpg"
   name             : "Wenzhao Li"
   bio              : "Roaming the world, shaping thoughts."
   location         : "UK"
