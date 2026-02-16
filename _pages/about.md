@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student at the Unveristy of Cambridge, supervised by [Cengiz Öztireli](https://www.cl.cam.ac.uk/~aco41/).
+More to come.
 
 Publications
 ====== 
