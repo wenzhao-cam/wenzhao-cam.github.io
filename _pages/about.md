@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-The people who arrive in this city change Cambridge. The ideas that leave this city change the world. More to come.
+More to come.
 
 Publications
 ====== 
